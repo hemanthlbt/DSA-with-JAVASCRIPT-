@@ -1,2 +1,3 @@
 # DSA-with-JAVASCRIPT-
-Data structures and algorithms with JavaScript!!!
+Data structures and algoritms with JavaScript!!!
+DSA 
